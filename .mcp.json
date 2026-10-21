@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mzad-qatar": {
+      "type": "http",
+      "url": "https://chatgpt.mzadqatar.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mzad-qatar",
+  "displayName": "Mzad Qatar",
+  "version": "1.0.0",
+  "description": "Search public Mzad Qatar listings and auctions in Arabic or English, compare returned details, and open the selected listing.",
+  "author": {
+    "name": "EBDAA DIGITAL TECHNOLOGY WLL",
+    "url": "https://mzadqatar.com"
+  },
+  "homepage": "https://mzadqatar.com",
+  "icon": "assets/mzad-qatar-logo.jpg",
+  "privacyPolicyUrl": "https://mzadqatar.com/en/privacy",
+  "license": "Proprietary"
+}
